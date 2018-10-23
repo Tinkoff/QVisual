@@ -1,0 +1,11 @@
+*.iml
+.idea/
+.idea_modules/
+*.ipr
+*.iws
+**/target
+out/
+*.log
+*.class
+*.properties
+.DS_Store
