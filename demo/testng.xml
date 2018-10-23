@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Example Tests" verbose="10" data-provider-thread-count="5">
+    <test name="Save screenshots and styles">
+        <classes>
+            <class name="ru.tinkoff.OpenUrlsTests"/>
+        </classes>
+    </test>
+</suite>

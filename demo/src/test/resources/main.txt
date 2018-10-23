@@ -1,0 +1,10 @@
+//div[@name='headerSlim']%0
+div[name='headerSlim'] span[data-qa-file='SecondMenu']
+//div[@name='productSlider']//div[@data-qa-file='ProductSliderItem' and a]
+//div[@name='bannersList']
+//div[@name='tinkoffJournal']
+//div[@name='gallerySlider']
+//div[@name='productFooter']
+//div[@name='www']
+div[name='sss']
+//ul[@id='firstMenu']//a
